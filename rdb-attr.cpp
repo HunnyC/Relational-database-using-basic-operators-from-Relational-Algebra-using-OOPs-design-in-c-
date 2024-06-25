@@ -1,4 +1,4 @@
-//Assignment::3
+
 //Name:Hunny chandra
 //Roll no :21CS30024
 #include"rdb.h"   // A header file (rdb.h) which has all the Library API.
