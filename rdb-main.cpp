@@ -154,11 +154,11 @@ void toprint()
 list<Relation *> listrel;
 int main()
 {
-    cout << "*****************************ASSIGNMENT-21CS30024(RDMS)**************************** " << endl;
+    cout << "*****************************21CS30024(RDMS)**************************** " << endl;
     toprint();
     string s;
     while (1)
-    {
+    {   
         cin >> s; 
         if (s == "e")                                           //program will exit
         { 
