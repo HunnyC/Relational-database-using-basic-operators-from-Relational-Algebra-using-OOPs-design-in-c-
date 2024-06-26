@@ -1,5 +1,5 @@
 
-Github link:
+
 # Relational Database Using Basic Operators from Relational Algebra in C++
 
 ## Project Overview
